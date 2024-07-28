@@ -1,0 +1,3 @@
+
+bottle detector-               http://192.168.225.77
+qr code-                       http://192.168.225.78
